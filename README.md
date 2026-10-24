@@ -1,4 +1,5 @@
 # 1st-demo-Repository
 This is my first Git Repository.
 <br>
-Author - Mayank Vishwakarma
+Author - Mayank (sirt)
+
